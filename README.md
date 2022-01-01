@@ -2,9 +2,13 @@
 
 ## 使用方法
 下载 desktopicons-neo.mo 文件到你的电脑
+ 
 打开 /home/xiaozhangup/.local/share/gnome-shell/extensions/desktopicons-neo@darkdemon/locale/zh_CN/LC_MESSAGES 目录
+ 
 将下载的文件复制进取
+ 
 按下 Alt + F2 输入 r 回车
+ 
 即可
 
 ## 先决条件
